@@ -73,6 +73,8 @@ transition-timing-function: ease ;
 a.btn:hover {
     color : black ;
     background-color : white ;
+        border-color: black ;
+
 
 }
 
