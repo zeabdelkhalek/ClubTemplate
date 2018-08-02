@@ -66,10 +66,14 @@ a.btn {
     text-align: center ;
     background-color : #4286f4 ;
     opacity: 1;
+transition-timing-function: ease ;
+    transition-duration: 0.3s ; 
 }
 
 a.btn:hover {
-    color : 
+    color : black ;
+    background-color : white ;
+
 }
 
 section { 
