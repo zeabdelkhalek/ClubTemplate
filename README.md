@@ -11,7 +11,7 @@ Quick visit ==>  https://abdelkhalekesi.github.io/ClubTemplate/
 ✓ Valid HTML5 & C553 <br>
 
 ## Some Screenshots
-![ClubTemplate Modern Minimal Design HTML5 & C553](https://drive.google.com/open?id=1mOCUva1ov3lDgxws0EcBXHbroGhLiuBA)
+![ClubTemplate Modern Minimal Design HTML5 & C553](/screencapture-abdelkhalekesi-github-io-ClubTemplate-2018-08-24-20_53_29.png)
 
 
 ## Credits
