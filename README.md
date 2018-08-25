@@ -8,7 +8,7 @@ Quick visit ==>  https://abdelkhalekesi.github.io/ClubTemplate/
 ✓ Built with Flexbox layout ( No Bootstrap )  <br>
 ✓ Light Clean Codes <br>
 ✓ Fully Responsive <br>
-✓ Valid HTML5 & C553 <br>
+✓ Valid HTML5 & CSS3 <br>
 
 ## Some Screenshots
 ![ClubTemplate Modern Minimal Design HTML5 & C553](/screencapture-abdelkhalekesi-github-io-ClubTemplate-2018-08-24-20_53_29.png)
