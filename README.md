@@ -11,6 +11,7 @@ Quick visit ==>  https://abdelkhalekesi.github.io/ClubTemplate/
 ✓ No Javascript <br>
 ✓ Fully Responsive <br>
 
+
 ## Some Screenshots
 ![ClubTemplate Modern Minimal Design HTML5 & C553](/screencapture-abdelkhalekesi-github-io-ClubTemplate-2018-08-24-20_53_29.png)
 
