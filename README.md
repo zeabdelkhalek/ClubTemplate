@@ -19,6 +19,11 @@ Quick visit ==>  https://abdelkhalekesi.github.io/ClubTemplate/
 ## Credits
 [Zellat Abdelkhalek](https://github.com/AbdelkhalekESI)
 
+#License
+
+Copyright (c) Abdelkhalek ZELLAT (https://github.com/AbdelkhalekESI). Released under MIT. See [LICENSE](/LICENSE) for details.
+
+
 ###### Contributions Are Welcome 
 
 
